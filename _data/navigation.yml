@@ -2,10 +2,10 @@
 main:
   - title: "UCSB: Bionic Vision Lab"
     url: http://bionicvisionlab.org/
-  - title: "UCI: Spatial Neuroscience"
-    url: https://faculty.sites.uci.edu/spatialneuro/lab-members/
-  - title: "UCSB: Research Center for Virtual Environments and Behavior (RECVEB)"
-     url: www.recveb.ucsb.edu
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
