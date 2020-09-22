@@ -93,12 +93,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Background"
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Justin Kasowski is a current PhD student in the UCSB: Dynamical Neuroscience program."
   location         : >
     University of California,
-    Santa Barbara CA
+    
+    Santa Barbara, CA
   email            : "justin_kasowski@ucsb.edu"
   links:
     - label: "Email"
