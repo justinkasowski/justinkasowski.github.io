@@ -1,3 +1,7 @@
+This personal webpage was created using the free Minimal Mistakes theme. The following is the original 'Read Me' document for the template, big thanks to the original creator!
+
+
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
